@@ -163,3 +163,299 @@ div.ejercicio3 {
 div.ejercicio3 div {
   width: 33.33%;
 }
+
+div.ejercicio4 {
+  height: 50px;
+  width: 1000px;
+  display: flex;
+}
+
+div.ejercicio4 div:nth-of-type(1) {
+  background-color: rgb(113, 218, 183);
+  flex: 1;
+  order: 2;
+}
+
+div.ejercicio4 div:nth-of-type(2) {
+  background-color: rgb(76, 109, 255);
+  flex: 1;
+  order: 3;
+}
+
+div.ejercicio4 div:nth-of-type(3) {
+  background-color: rgb(140, 46, 168);
+  flex: 1;
+  order: 4;
+}
+
+div.ejercicio4 div:nth-of-type(4) {
+  background-color: rgb(7, 2, 71);
+  flex: 1;
+  order: 5;
+}
+
+div.ejercicio4 div:nth-of-type(5) {
+  background-color: rgb(236, 233, 40);
+  flex: 1;
+  order: 1;
+}
+
+div.ejercicio4 div:nth-of-type(6) {
+  background-color: rgb(252, 172, 52);
+  flex: 1;
+  order: 10;
+}
+
+div.ejercicio4 div:nth-of-type(7) {
+  background-color: rgb(235, 61, 38);
+  flex: 1;
+  order: 6;
+}
+
+div.ejercicio4 div:nth-of-type(8) {
+  background-color: rgb(168, 168, 168);
+  flex: 1;
+  order: 7;
+}
+
+div.ejercicio4 div:nth-of-type(9) {
+  background-color: rgb(9, 255, 173);
+  flex: 1;
+  order: 8;
+}
+
+div.ejercicio4 div:nth-of-type(10) {
+  background-color: rgb(5, 173, 117);
+  flex: 1;
+  order: 9;
+}
+
+div.ejercicio4 div {
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
+
+div.ejercicio5 div:nth-of-type(1) {
+  background-color: rgb(113, 218, 183);
+}
+
+div.ejercicio5 div:nth-of-type(2) {
+  background-color: rgb(76, 109, 255);
+}
+
+div.ejercicio5 div:nth-of-type(3) {
+  background-color: rgb(140, 46, 168);
+}
+
+div.ejercicio5 div:nth-of-type(4) {
+  background-color: rgb(7, 2, 71);
+}
+
+div.ejercicio5 div:nth-of-type(5) {
+  background-color: rgb(236, 233, 40);
+}
+
+div.ejercicio5 div:nth-of-type(6) {
+  background-color: rgb(252, 172, 52);
+}
+
+div.ejercicio5 div:nth-of-type(7) {
+  background-color: rgb(235, 61, 38);
+}
+
+div.ejercicio5 div:nth-of-type(8) {
+  background-color: rgb(168, 168, 168);
+}
+
+div.ejercicio5 div:nth-of-type(9) {
+  background-color: rgb(9, 255, 173);
+}
+
+div.ejercicio5 div:nth-of-type(10) {
+  background-color: rgb(5, 173, 117);
+}
+
+div.ejercicio5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-size: 0;
+}
+
+div.ejercicio5 div {
+  height: 20px;
+}
+
+div.ejercicio6 div:nth-of-type(1) {
+  background-color: rgb(113, 218, 183);
+  font-size: 30px;
+}
+
+div.ejercicio6 div:nth-of-type(2) {
+  background-color: rgb(76, 109, 255);
+  font-size: 60px;
+}
+
+div.ejercicio6 div:nth-of-type(3) {
+  background-color: rgb(140, 46, 168);
+  font-size: 80px;
+}
+
+div.ejercicio6 div:nth-of-type(4) {
+  background-color: rgb(7, 2, 71);
+  font-size: 100px;
+}
+
+div.ejercicio6 div:nth-of-type(5) {
+  background-color: rgb(236, 233, 40);
+  font-size: 20px;
+}
+
+div.ejercicio6 div:nth-of-type(6) {
+  background-color: rgb(252, 172, 52);
+  font-size: 60px;
+}
+
+div.ejercicio6 div:nth-of-type(7) {
+  background-color: rgb(235, 61, 38);
+  font-size: 60px;
+}
+
+div.ejercicio6 div:nth-of-type(8) {
+  background-color: rgb(168, 168, 168);
+  font-size: 60px;
+}
+
+div.ejercicio6 div:nth-of-type(9) {
+  background-color: rgb(9, 255, 173);
+  font-size: 60px;
+}
+
+div.ejercicio6 div:nth-of-type(10) {
+  background-color: rgb(5, 173, 117);
+  font-size: 50px;
+}
+
+div.ejercicio6 {
+  display: flex;
+  align-items: baseline;
+  color: white;
+  text-align: center;
+}
+
+div.ejercicio6 div {
+  padding: 10px;
+}
+
+div.ejercicio7 div:nth-of-type(1) {
+  background-color: rgb(113, 218, 183);
+}
+
+div.ejercicio7 div:nth-of-type(2) {
+  background-color: rgb(76, 109, 255);
+}
+
+div.ejercicio7 div:nth-of-type(3) {
+  background-color: rgb(140, 46, 168);
+}
+
+div.ejercicio7 div:nth-of-type(4) {
+  background-color: rgb(7, 2, 71);
+}
+
+div.ejercicio7 div:nth-of-type(5) {
+  background-color: rgb(236, 233, 40);
+}
+
+div.ejercicio7 div:nth-of-type(6) {
+  background-color: rgb(252, 172, 52);
+}
+
+div.ejercicio7 div:nth-of-type(7) {
+  background-color: rgb(235, 61, 38);
+}
+
+div.ejercicio7 div:nth-of-type(8) {
+  background-color: rgb(168, 168, 168);
+}
+
+div.ejercicio7 div:nth-of-type(9) {
+  background-color: rgb(9, 255, 173);
+}
+
+div.ejercicio7 div:nth-of-type(10) {
+  background-color: rgb(5, 173, 117);
+}
+
+div.ejercicio7 {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+}
+
+div.ejercicio7 div {
+  width: 33.33%;
+  height: 50px;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+}
+
+div.ejercicio8 div:nth-of-type(1) {
+  background-color: rgb(113, 218, 183);
+}
+
+div.ejercicio8 div:nth-of-type(2) {
+  background-color: rgb(76, 109, 255);
+  align-self: stretch;
+}
+
+div.ejercicio8 div:nth-of-type(3) {
+  background-color: rgb(140, 46, 168);
+}
+
+div.ejercicio8 div:nth-of-type(4) {
+  background-color: rgb(7, 2, 71);
+}
+
+div.ejercicio8 div:nth-of-type(5) {
+  background-color: rgb(236, 233, 40);
+}
+
+div.ejercicio8 div:nth-of-type(6) {
+  background-color: rgb(252, 172, 52);
+  align-self: center;
+}
+
+div.ejercicio8 div:nth-of-type(7) {
+  background-color: rgb(235, 61, 38);
+}
+
+div.ejercicio8 div:nth-of-type(8) {
+  background-color: rgb(168, 168, 168);
+}
+
+div.ejercicio8 div:nth-of-type(9) {
+  background-color: rgb(9, 255, 173);
+  align-self: end;
+}
+
+div.ejercicio8 div:nth-of-type(10) {
+  background-color: rgb(5, 173, 117);
+}
+
+div.ejercicio8 {
+  display: flex;
+  align-items: flex-start;
+}
+
+div.ejercicio8 div {
+  flex: 1;
+
+  text-align: center;
+  font-size: 40px;
+  padding: 5px;
+  color: white;
+}
